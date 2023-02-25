@@ -1,0 +1,31 @@
+---
+title: "Marie Zahn"
+image: "ZahnMarie_photo.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/mjzahn"
+  - label: Email
+    url: "mzahn@uw.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I am a Wisconsin native turned New York City transplant, and more recently a sailboat liveaboard in Seattle. Before conducting environmental research, I studied filmmaking and later began a private practice in Rolfing—a form of manual therapy—that I still maintain intermittently today. 
+
+My love for being outdoors coupled with field projects with inspiring crew members has opened a career path for me in environmental research, especially in polar regions (Arctic and Antarctic) that are most affected by climate change. My strong interests in polar ecology has ultimately led me to graduate school.
+
+I’m currently a PhD Candidate at the University of Washington’s School of Aquatic and Fishery Sciences under the direction of Dr. Kristin Laidre. I study the sounds of belugas and narwhals—specifically echolocation—to determine how we scientists can distinguish between them acoustically. By knowing their characteristic sounds, we can deploy underwater recorders year-round in remote regions of the Arctic to better understand their habitat-use and behavior. This is an increasing research priority, because as the Arctic becomes more ice-free vessel traffic and underwater noise are expected to increase with negative impacts on these whales. 
+
+I am also studying the year-round variation in the physical oceanography (salinity and temperature) of three glacial fjords in northwest Greenland. These fjords and coastlines are seasonally occupied by belugas and narwhals during their annual migrations. Learning about the physical properties of these fjords will help scientists understand the dynamics by which the Greenland ice sheet and its tidewater glaciers are melting due to climate change. 
+
+## Education
+
+**Columbia University** | Seattle, WA
+
+Ph.D. in Aquatic and Fishery Sciences | Expected 2023
+
+**Columbia University** | New York, NY
+
+B.A. in Environmental Biology | 2016
